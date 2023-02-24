@@ -1,0 +1,23 @@
+Year,Accident Factor,Damage to Property,Fatal,Non Fatal Injury,Grand Total
+2019,Human Error,,,1,1
+2019,Human Error (Drap into the Hole),,,1,1
+2019,Human Error (Fallen Passenger),,,6,6
+2019,Human Error (Fell Asleep),2,,3,5
+2019,Human Error (fell From PUJ),,,1,1
+2019,Human Error (Felt Asleeo),1,,,1
+2019,Human Error (Lost Control of Wheel),1,,1,2
+2019,Human Error (Lost Control),12,,20,32
+2019,Human Error (Mental Blank),1,,,1
+2019,Human Error (Over Turned),1,,,1
+2019,Human Error (Run Over Oil Spill),,,1,1
+2019,Human Error (The Door Accidentallv Ooen),1,,,1
+2019,Mechanical Defect,7,,,7
+2019,Mechanical Defect (Electrical Problem),1,,,1
+2019,Mechanical Defect (Lost Brake),6,,3,9
+2019,Mechanical Defect (Lost Prooeller),1,,,1
+2019,No Accident Factor (based on Police Blotter Book),33586,111,5994,39691
+2019,Other (Heart Attack/cardiac Arrest),2,,,2
+2019,Under the Influence of Liquor,16,1,12,29
+2019,Vehicle Defect (Exploded Tire),1,,1,2
+2019,Vehicle Defect (Flat Tire),,,1,1
+2019,Vehicle Defect (Tire Burst),1,,,1

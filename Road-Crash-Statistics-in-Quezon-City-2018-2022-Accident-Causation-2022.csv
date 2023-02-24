@@ -1,0 +1,20 @@
+Year,Accident Factor,Damage to Property,Fatal,Non Fatal Injury,Grand Total
+2022,Human Error,4227,4,1229,5460
+2022,Human Error (Falling Passenger),1,,6,7
+2022,Human Error (Fell Asleep),2,,1,3
+2022,Human Error (Lost Control of Wheel),3,,10,13
+2022,Human Error (Lost Control),10,1,16,27
+2022,Human Error (Low Side Crash),3,,3,6
+2022,Human Error (Open Door),1,,4,5
+2022,Human Error (Over Turn),2,,1,3
+2022,Mechanical Defect,1,,,1
+2022,No Accident Factor (Based on the Police Blotter Book),14912,117,5140,20169
+2022,Other (Heart Attack),,1,,1
+2022,Road Condition,,,1,1
+2022,Road Condition (PLOT Manhole),,,1,1
+2022,Road Condition (Pothole),,,4,4
+2022,Road Condition (Slippery),1,,,1
+2022,Under the Influence of Liquor,4,,3,7
+2022,Vehicle Defect (Detached Tire),1,,,1
+2022,Vehicle Defect (Lost Brake),1,,2,3
+2022,Vehicle Defect (Wheel Detached),1,,1,2

@@ -1,0 +1,19 @@
+Year,Collision Type,Damage to Property,Fatal,Non Fatal Injury,Grand Total
+2020,Angle Impact,2148,6,651,2805
+2020,Head On,209,,102,311
+2020,Hit and Run,401,2,106,509
+2020,Hit and Run / Angle Impact,85,,13,98
+2020,Hit and Run / Head On,12,,2,14
+2020,Hit and Run / Hit Parked Vehicle,151,,,151
+2020,Hit and Run / Hit Pedestrian,,,27,27
+2020,Hit and Run / Multiple Collision,,,1,1
+2020,Hit and Run / Rear End,202,1,25,228
+2020,Hit and Run / Side Swipe,394,1,57,452
+2020,Hit Object,725,18,119,862
+2020,Hit Parked Vehicle,271,,9,280
+2020,Hit Pedestrian,,17,467,484
+2020,Multiple Collision,561,6,267,834
+2020,No Collision Stated (Based on the Police Blotter Book),1139,8,508,1655
+2020,Rear End,4443,14,607,5064
+2020,Self Accident,328,11,433,772
+2020,Side Swipe,6751,10,1186,7947
